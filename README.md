@@ -1,6 +1,7 @@
 # Project Title
 
-A project using axios to handle http requests and Pusher for real-time stuff. **Don't forget to link back to the tutorial.**
+A Laravel Vue.js project using axios to handle http requests and Vuex to manage state. **Don't forget to link back to the tutorial.**
+
 
 ## Getting Started
 
@@ -19,9 +20,10 @@ What things you need to install the software and how to install them
 
 ## Built With
 
-* [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 * [Laravel](https://laravel.com/) - Beautiful Php framework
 * [Vue](https://vuejs.org/) - A Great reactive Js framework
+* [Vuex](https://vuejs.org/) - Vuejs state management made simple
+* [Bootstrap](https://getbootstrap.com) - A beautiful css framework
 * [Axios](https://vuejs.org/) - A Js library to handle ajax requests easily
 
 ## Acknowledgments
