@@ -1,6 +1,6 @@
 # Project Title
 
-A project using axios to handle http requests and Pusher for real-time stuff. **Don't forget to link back to the tutorial.**
+A Laravel Vue.js project using axios to handle http requests and Vuex to manage state. **Don't forget to link back to the tutorial.**
 
 ## Getting Started
 
