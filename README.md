@@ -15,6 +15,8 @@ A Laravel Vue.js project using axios to handle http requests and Vuex to manage 
 What things you need to install the software and how to install them
 
 * Laravel
+* Vue
+* Vuex
 * npm
 
 
