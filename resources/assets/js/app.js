@@ -18,8 +18,8 @@ window.Vue = require('vue');
 // Vue.component('example-component', require('./components/ExampleComponent.vue'));
 import store from './store/index'
 
-Vue.component('posts', require('./components/Posts'))
-Vue.component('createPost', require('./components/CreatePost'))
+Vue.component('posts', require('./components/Posts.vue'))
+Vue.component('createPost', require('./components/CreatePost.vue'))
 
 const app = new Vue({
     el: '#app',
