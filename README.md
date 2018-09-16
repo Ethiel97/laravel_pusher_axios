@@ -9,9 +9,9 @@ Make sure you have `npm` and `composer` on your local machine
 1.  Clone this repository and cd into it
 2.  Run `composer install` to download laravel dependencies
 3.  Execute `npm install` to download dependencies
-4.  Execute `npm run dev` to build project assets
-5.  Don't forget to set up the database properly
-6.  Run php `php artisan migrate --seed` to run migrations with seeding
+4.  Don't forget to set up the database properly
+5.  Run php `php artisan migrate --seed` to run migrations with seeding
+6.  Execute `npm run dev` to build project assets
 7.  Execute `php artisan serve` to run the project in your browser
 8.  See the tutorial for useful notes 
 
