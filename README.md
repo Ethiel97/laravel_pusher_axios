@@ -7,10 +7,9 @@ A Laravel Vue.js project using axios to handle http requests and Vuex to manage 
 Make sure you have `npm` and `composer` on your local machine
 
 1.  Clone this repository and cd into it
-2.  Run `composer install` to download laravel dependencies
-3.  Execute `npm install` to download dependencies
-4.  Don't forget to set up the database properly
-5.  Run php `php artisan migrate --seed` to run migrations with seeding
+2.  Run `composer install` and `npm install` to download laravel dependencies
+3.  Run `php artisan key:generate` to generate a key for the app
+5.  Set up your database in your `.env` file and run php `php artisan migrate --seed`
 6.  Execute `npm run dev` to build project assets
 7.  Execute `php artisan serve` to run the project in your browser
 8.  See the tutorial for useful notes 
