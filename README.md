@@ -9,8 +9,9 @@ A Laravel Vue.js project using axios to handle http requests and Vuex to manage 
 2.  Execute `npm install` to download dependencies
 3.  Execute `npm run dev` to build project assets
 4.  Don't forget to set up the database properly
-5.  Execute `php artisan serve` to run the project in your browser
-6.  See the tutorial for useful notes 
+5.  Run php `php artisan migrate --seed` to run migrations with seeding
+6.  Execute `php artisan serve` to run the project in your browser
+7.  See the tutorial for useful notes 
 
 ### Prerequisites
 
