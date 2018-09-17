@@ -12,7 +12,7 @@ Make sure you have `npm` and `composer` on your local machine
 5.  Set up your database in your `.env` file and run php `php artisan migrate --seed`
 6.  Execute `npm run dev` to build project assets
 7.  Execute `php artisan serve` to run the project in your browser
-8.  See the tutorial for useful notes 
+8.  See the [tutorial](https://pusher.com/tutorials/laravel-vue-axios) for useful notes 
 
 ### Prerequisites
 
