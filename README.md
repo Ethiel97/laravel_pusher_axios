@@ -1,7 +1,8 @@
 ## Handle http requests in a Laravel Vue.js app with Axios.
 
-A Laravel Vue.js project using axios to handle http requests and Vuex to manage state. **Don't forget to link back to the tutorial.**
+A Laravel Vue.js project using axios to handle http requests and Vuex to manage state. 
 
+[Read the tutorial](https://pusher.com/tutorials/laravel-vue-axios)
 
 ## Getting Started
 Make sure you have `npm` and `composer` on your local machine
