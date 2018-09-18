@@ -17,8 +17,6 @@ Make sure you have `npm` and `composer` on your local machine
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 * Laravel
 * Vue
 * Vuex
