@@ -2,6 +2,8 @@
 
 A Laravel Vue.js project using axios to handle http requests and Vuex to manage state. 
 
+![application screenshot](public/images/demo.gif "Realtime search engine with Laravel and Pusher")
+
 [Read the tutorial](https://pusher.com/tutorials/laravel-vue-axios)
 
 ## Getting Started
